@@ -1,0 +1,1 @@
+In this project, I analyzed data from Meta’s social media platforms, including steps like data preprocessing, cleaning, and visualization. The goal was to uncover patterns and provide actionable recommendations to help attract new users to Meta-centric platforms.
